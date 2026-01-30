@@ -54,3 +54,4 @@ Improving the frontend design or adding more advanced natural language processin
 Please fork the repository and submit a pull request with your changes.
 👤 Author
 Nishank1403 (Project Creator and Maintainer)
+'''
